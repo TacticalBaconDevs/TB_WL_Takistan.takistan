@@ -1,0 +1,17 @@
+*.zip
+*.rar
+*.dll
+*.exe
+*.bat
+*.cmd
+*.dll
+
+/#localStuff
+/.vscode
+sqf-0.3.2
+/Changelog.txt
+
+statstracker/TBModExt_Statistics/.vs/
+statstracker/TBModExt_Statistics/packages/
+statstracker/TBModExt_Statistics/TBModExt_Statistics/bin/
+statstracker/TBModExt_Statistics/TBModExt_Statistics/obj/
